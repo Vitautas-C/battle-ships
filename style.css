@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+canvas {
+  display: block;
+  box-shadow: 0 0 8px 1px;
+}
